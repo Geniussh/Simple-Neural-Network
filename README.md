@@ -13,7 +13,6 @@ The non-linear function to approximate is
 ![image](https://user-images.githubusercontent.com/44150278/101875817-44df9980-3bc6-11eb-9a84-f2b6a969a799.png)
 
 and
-
 ![image](https://user-images.githubusercontent.com/44150278/101875887-63459500-3bc6-11eb-99f0-4023b86c3df4.png)
 
 ## Training
